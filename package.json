@@ -1,0 +1,24 @@
+{
+  "name": "intheloop",
+  "version": "1.0.0",
+  "description": "This app submits an image selected by the user to the AWS Rekognition API for analysis. The image must be a .jpg or .png file format. We utilize the detect_label and detect_faces functions from the API.",
+  "main": "index.js",
+  "scripts": {
+     "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McLovinCSUN/InTheLoop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McLovinCSUN/InTheLoop/issues"
+  },
+  "homepage": "https://github.com/McLovinCSUN/InTheLoop#readme"
+}
+
+  
